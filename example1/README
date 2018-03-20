@@ -3,3 +3,16 @@ This example uses data from ...
 converts it to CfRadial format (RadxConvert), 
 print the data for a quick sanity check (RadxPrint),
 displays the data using HawkEye, then saves the display as a PNG image.
+
+1. Grab a NEXRAD data file from 
+https://s3.amazonaws.com/noaa-nexrad-level2/index.html
+
+I clicked on  KARX20170408_003319_V06 and it downloaded the data file.
+
+2. ./RadxConvert -f /Users/brenda/Downloads/KARX20170408_003319_V06
+
+3. ./RadxPrint -f output/20170408/cfrad.20170408_003432.229_to_20170408_004300.205_KARX_Surveillance_SUR.nc
+
+4. ./HawkEye -params ~/test_area/hawkeye/HawkEye_KARX.archive -f output/20170408/cfrad.20170408_003432.229_to_20170408_004300.205_KARX_Surveillance_SUR.nc
+
+**Need color scales from lrose-display **
