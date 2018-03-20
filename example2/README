@@ -1,0 +1,3 @@
+This example takes ... data, converts it to Cfradial format (RadxConvert),
+prints the data as text (RadxPrint), converts the data to cartesian grid
+(Radx2Grid), and finally uses ncview and ncdump to example the data.

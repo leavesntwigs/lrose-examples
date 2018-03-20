@@ -1,0 +1,5 @@
+
+This example uses data from ... 
+converts it to CfRadial format (RadxConvert), 
+print the data for a quick sanity check (RadxPrint),
+displays the data using HawkEye, then saves the display as a PNG image.
