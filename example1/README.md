@@ -25,7 +25,7 @@ notice these fields ...
 
     field[0]: REF
     field[1]: VEL
-    field[2]: SW
+    field[2]: ZDR
     field[3]: REF_s1
     field[4]: REF_s3
 
