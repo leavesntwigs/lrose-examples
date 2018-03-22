@@ -1,6 +1,6 @@
-<img src="radar.HawkEye.20170408003432.VEL.png" width="30%" />
-<img src="radar.HawkEye.20170408003432.REF.png" width="30%" />
-<img src="radar.HawkEye.20170408003432.ZDR.png" width="30%" />
+
+<img src="radar.HawkEye.20170408003432.VEL.png" width="30%" />  <img src="radar.HawkEye.20170408003432.REF.png" width="30%" />  <img src="radar.HawkEye.20170408003432.ZDR.png" width="30%" /> 
+
 
 
 This example uses data from ... 
