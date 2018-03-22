@@ -1,4 +1,4 @@
-![VEL](radar.HawkEye.20170408003432.VEL.png =25x)
+![VEL](radar.HawkEye.20170408003432.VEL.png =100x100)
 
 This example uses data from ... 
 converts it to CfRadial format (RadxConvert), 
